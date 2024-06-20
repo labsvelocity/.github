@@ -42,10 +42,5 @@ We'd love to hear from you! Reach out to us at:
 
 ---
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
 
 Thank you for visiting VeloCity Labs! Let's innovate and build the future together.
